@@ -1,0 +1,158 @@
+body{
+    margin: 0;
+    background-color: rgb(233, 233, 233);
+    text-align: center;
+}
+.side-title
+{
+margin: 0;
+padding-left: 68px;
+padding-top: 8px;
+width: 6;
+color: rgb(56, 41, 41);
+}
+.bgimg
+{
+margin: auto;
+position: relative;
+width: 100%;
+}
+.cart-img{
+    width: 2%;
+    position: absolute;
+    left: 30px;
+    top: 15px;
+    color: rgb(56, 41, 41);
+}
+.get{
+    position: absolute;
+    left: 69px;
+    top: 23px;
+    color: rgb(231, 229, 229);
+    font-family: 'Open Sans', sans-serif;
+    font-size: small;
+    font-weight: bold;
+}
+.user-name
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    color: rgb(255, 250, 250);
+    font-weight: bold;
+    background-color: #36363670;
+    position: absolute;
+    right: 75px;
+    top: 22px;
+}
+
+.user-icon
+{
+    width: 3%;
+    position: absolute;
+    right: 241px;
+    top: 17px;
+    color: rgb(231, 229, 229);
+}
+.zomatologo{
+    width: 21%;
+    position: absolute;
+    left: 537px;
+    top: 161px;
+    
+}
+.bannertext{
+    position: absolute;
+top: 201px;
+left: 395px;
+color: rgb(255, 255, 255);
+font-family: 'Open Sans', sans-serif;
+font-size: 25px;
+font-weight: bold;
+background-color: #36363638;
+}
+
+.middle-container 
+{
+background-color: rgb(233, 233, 233);
+width: 80%;
+height: 700px;
+margin: auto;
+position: relative;
+
+}
+.middle-title{
+    text-align: left;
+}
+#tile-h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 63px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    line-height: 2;
+
+}
+
+#tile-h3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 63px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.tile-container{
+    height: 212px;
+    width: 23%;
+    margin: 52px;
+    float: left;
+    
+   
+}
+.tile-comp1{
+    width: 100%;
+    height: 140px;
+}
+.tile-comp2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    color: rgb(56, 56, 56);
+    font-weight: bold;
+    margin-top: 40px;
+
+}
+
+
+
+.lower-container
+{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(180, 180, 180, 0.425);
+}
+
+.social-links{
+   margin: auto;
+    display: block;
+    line-height: 3;
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.social-icons
+{
+    padding: 15px;
+}
+
+.zomato-footer{
+    display: inline-block;
+    margin-left: 30px 10px 10px ;
+}
+
+
+
+

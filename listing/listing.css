@@ -1,0 +1,205 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+}
+
+
+.header
+{
+    height: 76px;
+    width: 100%;
+    background-color: whitesmoke;
+
+  
+}
+.header-title
+{
+height: 50px;
+width: 18%;
+margin-left: 70px;
+padding-top: 10px;
+}
+
+.header-icons
+{
+    
+    padding-left: 800px;
+
+}
+.social-icons
+{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.mid-container
+{
+    height: 600px;
+    width: 75%;
+  
+    margin: 70px auto 70px auto;
+}
+
+.filter
+{
+    height: 570px;
+    width: 25%;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(112, 112, 112, 0.226);
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    padding-top: 26px;
+    font-weight: bolder;
+    float: left;
+}
+.filter-1
+{
+    width: 100%;
+    height: 10%;
+    text-align: left;
+}
+.filter-2
+{
+    width: 100%;
+    height: 45%;
+    text-align: left;
+}
+.filter-3
+{
+    width: 100%;
+    height: 45%;
+    text-align: left;
+}
+
+hr {
+    display: dotted;
+    height: 0.5px;
+    border-width: 1px;
+    color: rgb(202, 202, 202);
+  }
+  .hotel1
+  {
+    height: 250px;
+    width: 70%;
+ 
+    float: left;
+    margin-left: 35px;
+    border-style: solid;
+    border-color: rgb(241, 216, 167);
+    border-width: 1px;
+  }
+ 
+  .hotel2
+  {
+    height: 250px;
+    width: 70%;
+  
+    float: left;
+    margin-left: 35px;
+    margin-top: 40px;
+    border-style: solid;
+    border-color: wheat;
+    border-width: 1px;
+  }
+  .image1
+  {
+      height: 250px;
+      float: left;
+  }
+  .image2
+  {
+      height: 250px;
+      float: left;
+  }
+
+  .hotel-des1
+  {
+    height: 250px;
+    width: 40%;
+ 
+    float: left;
+    margin-left: 35px;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+    font-size: xx-large;
+  }
+  .hotel-des2
+  {
+    height: 250px;
+    width: 40%;
+
+    float: left;
+    margin-left: 35px;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+    font-size: xx-large;
+  }
+  p{
+      font-size: small;
+      font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+
+  }
+  .button {
+    border: none;
+    color: white;
+    padding: 13px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #ff0000;
+  }
+  
+  .button1:hover {
+    background-color: #ff0000;
+    color: white;
+  }
+  
+.footer-container
+{
+    height: 100%;
+    width: 100%;
+    background-color: whitesmoke;
+
+   
+
+}
+
+.social-links
+{
+    margin: auto;
+    
+    line-height: 3;
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.social-icons
+{
+    margin: auto;
+    
+    padding: 15px;
+}
+
+.zomato-footer
+{
+    margin: auto;
+    
+    margin-left: 30px 10px 10px ;
+}
+
